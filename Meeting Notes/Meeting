@@ -3,9 +3,9 @@ name: Tech Talk
 about: Getting started and finding purpose
 title: 'Tech Talk Meeting: 2023-03-25'
 labels: Meetings
-Attendees: 'Daniel, '
-
+Attendees: 'Daniel, Uzeyr'
 ---
+
 
 # Agenda
 
@@ -19,13 +19,26 @@ Attendees: 'Daniel, '
 **Attendees**: 
 
 ## Roundtable
-Daniel:
+### Daniel
+Overall Good week, been with family, 
 
+### Uzeyr
+Good week, Been with family attenting his religion
+Doing codewars Anki, 
 ## News
 Daniel Wants to talk about purpose of the server and how we should orgonazise it
-- 
-## Project Updates
 
+Talked about Notetaking tool [Obsidian](https://obsidian.md/)
+
+Daniel Talked about [Shayhowe](https://learn.shayhowe.com/html-css/getting-to-know-css/) structuring CSS
+
+
+
+## Project Updates
+### Uzeyr
+has been working on his hairsalon website,
+Homework on the API (The drinks API)
+![[Discord_KfmY55A6sx.gif]]
 ## Demos
 
 ## Deep Dive
