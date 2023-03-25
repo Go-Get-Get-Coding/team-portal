@@ -37,13 +37,21 @@ Daniel Talked about [Shayhowe](https://learn.shayhowe.com/html-css/getting-to-kn
 ## Project Updates
 
 ### Uzeyr
+
 has been working on his hairsalon website,
+
 Homework on the API (The drinks API)
+
 ![Example](../../../../../Desktop/My-Obsidian-Vault/Images/Discord_KfmY55A6sx.gif)
+
 ### Daniel
+
 Started to plan the 100 hour project (Productivity App)
+
 Working on CRUD App homework
+
 Working on his business website
+
 ## Demos
 
 ## Deep Dive
