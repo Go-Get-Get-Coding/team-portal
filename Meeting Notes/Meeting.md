@@ -38,7 +38,7 @@ Daniel Talked about [Shayhowe](https://learn.shayhowe.com/html-css/getting-to-kn
 ### Uzeyr
 has been working on his hairsalon website,
 Homework on the API (The drinks API)
-
+![Alt text](../../../../../Desktop/My-Obsidian-Vault/Images/Discord_KfmY55A6sx.gif)
 ## Demos
 
 ## Deep Dive
