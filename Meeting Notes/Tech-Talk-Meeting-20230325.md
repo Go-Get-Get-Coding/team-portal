@@ -42,7 +42,7 @@ has been working on his hairsalon website,
 
 Homework on the API (The drinks API)
 
-![Example](../../../../../Desktop/My-Obsidian-Vault/Images/Discord_KfmY55A6sx.gif)
+![Discord_KfmY55A6sx](https://user-images.githubusercontent.com/94358555/227739736-c64f1aa6-5de1-4e51-8ecb-6c2c8e9f0947.gif)
 
 ### Daniel
 
